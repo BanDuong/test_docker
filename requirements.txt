@@ -10,3 +10,7 @@ sqlparse==0.4.1
 urllib3==1.26.6
 values==2020.12.3
 websocket-client==1.1.0
+unicodecsv==0.14.1
+uritemplate==3.0.1
+virtualenv==20.4.7
+wrapt==1.12.1
